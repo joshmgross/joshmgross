@@ -5,7 +5,7 @@
 
 # Guestbook
 
-✒ Sign my guestbook! 📖 at https://github.com/joshmgross/joshmgross/issues/1
+✒ Sign my guestbook 📖 at [joshmgross/joshmgross#1](https://github.com/joshmgross/joshmgross/issues/1)
 
 <!--START:guestbook-->
 [@mscoutermarsh](https://github.com/mscoutermarsh) said:

@@ -8,7 +8,6 @@
 ✒ Sign my guestbook 📖 at [joshmgross/joshmgross#1](https://github.com/joshmgross/joshmgross/issues/1)
 
 <!--START:guestbook-->
-[@mscoutermarsh](https://github.com/mscoutermarsh) said:
 > Josh is the coolest
-<sup>[src](https://github.com/joshmgross/joshmgross/issues/1#issuecomment-649929748)</sup>
+> -[@mscoutermarsh](https://github.com/mscoutermarsh)
 <!--END:guestbook-->

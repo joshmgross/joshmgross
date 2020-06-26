@@ -11,9 +11,12 @@
 > Josh is the coolest
 > -[@mscoutermarsh](https://github.com/mscoutermarsh)
 
-> knock knock
-> -[@brcrista](https://github.com/brcrista)
-
 > A+++ developer, ships on time, would work with again!
 > -[@hashtagchris](https://github.com/hashtagchris)
+
+> I was here on 2020-06-26!
+> -[@cschleiden](https://github.com/cschleiden)
+
+> banana
+> -[@brcrista](https://github.com/brcrista)
 <!--END:guestbook-->

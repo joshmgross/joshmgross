@@ -1,4 +1,4 @@
-<img src="marquee.svg">
+<img src="marquee.svg" width="800" height="50">
 
 # :wave: Hi, I'm Josh!
 

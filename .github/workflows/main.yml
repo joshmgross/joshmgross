@@ -1,10 +1,6 @@
 name: 📖
 
-on:
-  push:
-    branches: [ main ]
-  schedule:
-  - cron: "0 */3 * * *"
+on: [workflow_dispatch]
 
 jobs:
   main:

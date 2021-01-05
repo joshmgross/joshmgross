@@ -25,4 +25,7 @@
 
 > Uhm... Hello. Random guest here (◕‿◕)
 > -[@nattadasu](https://github.com/nattadasu)
+
+> Is this how I get access to the webring?
+> -[@robotdestroy](https://github.com/robotdestroy)
 <!--END:guestbook-->

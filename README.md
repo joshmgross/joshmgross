@@ -28,4 +28,10 @@
 
 > Is this how I get access to the webring?
 > -[@robotdestroy](https://github.com/robotdestroy)
+
+> no u
+> -[@b3ll](https://github.com/b3ll)
+
+> Really cool @joshmgross! 🚀 
+> -[@bl-ue](https://github.com/bl-ue)
 <!--END:guestbook-->

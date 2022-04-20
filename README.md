@@ -34,4 +34,10 @@
 
 > Really cool @joshmgross! 🚀 
 > -[@bl-ue](https://github.com/bl-ue)
+
+> :wave: 
+> -[@Morched23MJ](https://github.com/Morched23MJ)
+
+>  🚀
+> -[@RomeroGaliza](https://github.com/RomeroGaliza)
 <!--END:guestbook-->

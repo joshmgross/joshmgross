@@ -43,4 +43,7 @@
 
 > Inspiring Work!
 > -[@BerkinAKKAYA](https://github.com/BerkinAKKAYA)
+
+> :fishsticks: 
+> -[@DanRigby](https://github.com/DanRigby)
 <!--END:guestbook-->

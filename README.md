@@ -46,4 +46,10 @@
 
 > :fishsticks: 
 > -[@DanRigby](https://github.com/DanRigby)
+
+> Awesome Josh!
+> -[@thesnowrose](https://github.com/thesnowrose)
+
+> 🚀🚀🚀🚀
+> -[@lauraway](https://github.com/lauraway)
 <!--END:guestbook-->

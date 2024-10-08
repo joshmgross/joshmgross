@@ -61,4 +61,10 @@
 > Sendin' much love! 🫶
 > Mateusz
 -[@Matejkob](https://github.com/Matejkob)
+
+> Help... How did I end up here? 🗺️❓🤷🏼‍♂️ 
+-[@Nathan-Bransby-NMT](https://github.com/Nathan-Bransby-NMT)
+
+> [object Object]
+-[@robherley](https://github.com/robherley)
 <!--END:guestbook-->
